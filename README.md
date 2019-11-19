@@ -1,7 +1,7 @@
 # LogicUnit
 Read instructions via command line and get the result of the it
 
-#Requirement
+# Requirement
 UNITS: it can have serval UNITs, for each Unit, the format below:
         a := max
         a is the unit name, max is the operator, it can support sum,max,min,negate,mul
@@ -17,7 +17,7 @@ VALUES: specify the value of inputs, should do calculation for each line, if can
         input/0 := 3
         specify the user input0 is 3
 
-#Input sample
+# Input sample
 UNITS: 3
 a := max
 b := sum
@@ -37,7 +37,7 @@ input/2 := 7
 input/2 := 9
 input/0 := 9
 
-#output sample
+# Output sample
 -12
 -14
 -18
