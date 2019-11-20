@@ -18,7 +18,7 @@ Read instructions via command line and get the result of the it
     
     output of unit c is the final result
 4.  **VALUES**: specify the value of inputs, should do calculation for each line, if can't get the result then no output
-    > input/0 := 3
+    > **input/0 := 3**
         
     specify the user input0 is 3
 
